@@ -1,7 +1,7 @@
 {
   "name": "websever",
   "version": "1.0.0",
-  "description": "ws toy project",
+  "description": "weather api fetcher",
   "main": "cli.js",
   "bin": {
     "galosh.js": "./cli.js"
@@ -15,7 +15,7 @@
     "url": "https://github.com/comp426-2022-fall/a02-leharris3"
   },
   "author": "leharris3",
-  "license": "SEE LICENSE IN <LICENSE>",
+  "license": "GPL-3.0",
   "bugs": {
     "url": "https://github.com/comp426-2022-fall/a02-leharris3"
   },
